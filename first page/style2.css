@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#hero {
+    background-image: url("../images/graffiti.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+#hero h1{
+    font-size: 15vw;
+    padding-left: 10vw;
+    margin-top: 100px;
+}
