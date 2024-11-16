@@ -90,3 +90,11 @@ nav ul li a:hover{
         height: 100%;
     }
 }
+
+@media (min-aspect-ratio: 16/9){
+    .content h1{
+        width: 10%;
+        height: auto;
+        
+    }
+}
